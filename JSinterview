@@ -1,0 +1,23 @@
+Go through some frequently asked #javascript interview questions 👇
+
+🍄 Implement the compose() and pipe() polyfill
+
+🍄 Implement the publisher-subscriber pattern in javascript
+
+🍄 Implement the map, filter ,reduce and for Each polyfill
+
+🍄 Implement the Function.bind , call, apply method on the Function Prototype
+
+🍄 Implement Async.parallel, Async.series which executes a set of async tasks parallel and in series
+
+🍄 Implement Retry api with n number of
+
+🍄 Prototype and prototype inheritance
+
+🍄 How rendering work in browser
+
+🍄 Event delegation and and event propagation in js
+
+🍄 Implement Memoization
+
+🍄 Get yourself comfortable with ES6 features and web api like timeout, intersection Observer
